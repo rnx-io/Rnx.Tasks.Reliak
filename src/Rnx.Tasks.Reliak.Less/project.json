@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "description": "Rnx.Tasks.Reliak.Less Class Library",
+  "authors": [ "Daniel Kailer" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+    "frameworks": {
+        "net451": { }
+    },
+    "dependencies": {
+        "DotlessClientOnly": "1.5.2",
+        "Rnx.Abstractions": "0.2.4-beta",
+        "Rnx.Tasks.Core": "0.2.0-beta"
+    }
+}
