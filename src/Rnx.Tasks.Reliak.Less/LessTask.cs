@@ -2,6 +2,7 @@
 using Rnx.Abstractions.Execution;
 using Rnx.Abstractions.Tasks;
 using Rnx.Tasks.Core.FileSystem;
+using System.Collections.Generic;
 
 namespace Rnx.Tasks.Reliak.Less
 {
@@ -22,6 +23,8 @@ namespace Rnx.Tasks.Reliak.Less
 
         public LessTask(LessTaskDescriptor taskDescriptor)
         {
+            IEnumerable<string> yeah;
+
             _taskDescriptor = taskDescriptor;
         }
 
