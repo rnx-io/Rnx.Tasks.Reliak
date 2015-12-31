@@ -10,7 +10,7 @@
     },
     "dependencies": {
         "DotlessClientOnly": "1.5.2",
-        "Rnx.Abstractions": "0.2.4-beta",
-        "Rnx.Tasks.Core": "0.2.0-beta"
+        "Rnx.Abstractions": "0.4.0-beta",
+        "Rnx.Tasks.Core": "0.4.4-beta"
     }
 }

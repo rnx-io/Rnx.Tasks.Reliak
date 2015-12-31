@@ -23,8 +23,6 @@ namespace Rnx.Tasks.Reliak.Less
 
         public LessTask(LessTaskDescriptor taskDescriptor)
         {
-            IEnumerable<string> yeah;
-
             _taskDescriptor = taskDescriptor;
         }
 

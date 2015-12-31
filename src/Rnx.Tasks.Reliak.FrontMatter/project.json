@@ -27,7 +27,7 @@
     },
     "dependencies": {
         "Newtonsoft.Json": "8.0.1-beta3",
-        "Rnx.Abstractions": "0.2.4-beta",
+        "Rnx.Abstractions": "0.4.0-beta",
         "YamlDotNet": "3.8.0-pre162"
     }
 }
